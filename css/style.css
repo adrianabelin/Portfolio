@@ -11,7 +11,7 @@ http://stackoverflow.com/questions/11375724/fade-in-fade-out-on-image-hover-usin
 */
 
 header {
-  background: url("../img/newbackground3.png");
+  background: url("../img/websiteappearance2.png");
   background-size: 100%;
 }
 
@@ -79,7 +79,7 @@ header {
 .new-shape5{
   fill: transparent;
   position: absolute;
-  left: 100%;
+  left: 90%;
   top: 20%;
   z-index: 50;
   transition: 3s ease-in-out;
@@ -190,7 +190,7 @@ header {
   fill: transparent;
   /*fill: #a699c0;*/
   position: absolute;
-  left: 80%;
+  left: 70%;
   top: 15%;
   z-index: 50;
   transition: 3s ease-in-out;
@@ -242,6 +242,7 @@ header {
   opacity: 0.5;
   background:#544F6D;
 }
+
 
 /* I tried this stuff to add a shadow but it didn't work.
 
