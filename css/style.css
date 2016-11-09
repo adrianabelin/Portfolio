@@ -16,7 +16,7 @@ header {
 }
 
 .new-shape{
-  fill: #a699c0;
+  fill: transparent;
   position: absolute;
   left: 50%;
   top: 20%;
@@ -32,7 +32,7 @@ header {
 
 
 .new-shape2{
-  fill: #a699c0;
+  fill: transparent;
   position: absolute;
   left: 6%;
   top: 10%;
@@ -48,7 +48,7 @@ header {
 
 
 .new-shape3{
-  fill: #a699c0;
+  fill: transparent;
   position: absolute;
   left: 78%;
   top: 40%;
@@ -62,7 +62,7 @@ header {
 
 
 .new-shape4{
-  fill: #a699c0;
+  fill: transparent;
   position: absolute;
   left: 20%;
   top: 40%;
@@ -77,7 +77,7 @@ header {
 
 
 .new-shape5{
-  fill: #a699c0;
+  fill: transparent;
   position: absolute;
   left: 100%;
   top: 20%;
@@ -91,7 +91,7 @@ header {
 
 
 .new-shape6{
-  fill: #a699c0;
+  fill: transparent;
   position: absolute;
   left: 70%;
   top: 50%;
@@ -105,7 +105,7 @@ header {
 
 
 .new-shape7{
-  fill: #a699c0;
+  fill: transparent;
   position: absolute;
   left: 30%;
   top: 20%;
@@ -120,7 +120,7 @@ header {
 
 
 .new-shape8{
-  fill: #a699c0;
+  fill: transparent;
   position: absolute;
   left: 20%;
   top:30%;
@@ -134,7 +134,7 @@ header {
 
 
 .new-shape9{
-  fill: #a699c0;
+  fill: transparent;
   position: absolute;
   left: 60%;
   top: 25%;
@@ -148,7 +148,7 @@ header {
 
 
 .new-shape10{
-  fill: #a699c0;
+  fill: transparent;
   position: absolute;
   left: 75%;
   top: 37%;
@@ -161,7 +161,7 @@ header {
 }
 
 .new-shape11{
-  fill: #a699c0;
+  fill: transparent;
   position: absolute;
   left: 50%;
   top: 10%;
@@ -174,7 +174,7 @@ header {
 }
 
 .new-shape12{
-  fill: #a699c0;
+  fill: transparent;
   position: absolute;
   left: 40%;
   top: 40%;
@@ -187,7 +187,8 @@ header {
 }
 
 .new-shape13{
-  fill: #a699c0;
+  fill: transparent;
+  /*fill: #a699c0;*/
   position: absolute;
   left: 80%;
   top: 15%;
@@ -201,7 +202,7 @@ header {
 
 
 .new-shape14{
-  fill: #a699c0;
+  fill: transparent;
   position: absolute;
   left: 90%;
   top: 20%;
@@ -214,7 +215,7 @@ header {
 }
 
 .new-shape15{
-  fill: #a699c0;
+  fill: transparent;
   position: absolute;
   left: 62%;
   top: 20%;
