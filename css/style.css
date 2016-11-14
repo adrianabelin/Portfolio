@@ -10,8 +10,20 @@ http://stackoverflow.com/questions/11375724/fade-in-fade-out-on-image-hover-usin
 
 */
 
+@media screen
+  and (device-width: 320px)
+  and (device-height: 640px)
+  and (-webkit-device-pixel-ratio: 2)
+{
+    #background .logo .nav  {
+       display:none;
+    }
+}
+
+
+
 header {
-  background: url("../img/a3.png");
+  background: url("../img/backgroundattemp4.png");
   background-size: 100%;
 }
 
