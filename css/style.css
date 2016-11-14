@@ -12,7 +12,7 @@ http://stackoverflow.com/questions/11375724/fade-in-fade-out-on-image-hover-usin
 
 @media screen
   and (device-width: 320px)
-  and (device-height: 640px)
+  and (device-height: 568px)
   and (-webkit-device-pixel-ratio: 2)
 {
     #background .logo .nav  {
