@@ -24,10 +24,13 @@ http://stackoverflow.com/questions/11375724/fade-in-fade-out-on-image-hover-usin
 /*background atempt 4*/
 header {
   background: url("../img/backgroundattemp4.png");
-  background-size: 100%;
-  text-align: center;
-  zoom: 200%;
+  height: 100vh; /*viewport height*/
 }
+
+/*.intro-text {
+  zoom: 50%;
+}
+*/
 
 .new-shape{
   fill: transparent;
