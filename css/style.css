@@ -9,7 +9,7 @@
 http://stackoverflow.com/questions/11375724/fade-in-fade-out-on-image-hover-using-css3
 
 */
-
+/*
 @media screen
   and (device-width: 320px)
   and (device-height: 568px)
@@ -19,12 +19,14 @@ http://stackoverflow.com/questions/11375724/fade-in-fade-out-on-image-hover-usin
        display:none;
     }
 }
+*/
 
-
-
+/*background atempt 4*/
 header {
   background: url("../img/backgroundattemp4.png");
   background-size: 100%;
+  text-align: center;
+  zoom: 200%;
 }
 
 .new-shape{
