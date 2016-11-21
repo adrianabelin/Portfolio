@@ -24,6 +24,7 @@ http://stackoverflow.com/questions/11375724/fade-in-fade-out-on-image-hover-usin
 /*background atempt 4*/
 header {
   background: url("../img/backgroundattemp4.png");
+  background-repeat: no-repeat;
   height: 100vh;
   width: 100vw;
  /*viewport height*/
