@@ -28,7 +28,14 @@ header {
   background-size:cover;
   height: 100vh;
 
+
  /*viewport height*/
+}
+
+@media (max-width: 600px) {
+    header .background  {
+        display:none;
+    }
 }
 
 /*.intro-text {
