@@ -1,11 +1,10 @@
 /*
 1. Get rid of white lines somewhere
-2. make top of design shorter
-3. Increase sides of design
+
 4. Place stars
 4.5. Fade out stars https://css-tricks.com/animating-svg-css/
 5. lower moon
-6. choose new mint color
+
 http://stackoverflow.com/questions/11375724/fade-in-fade-out-on-image-hover-using-css3
 
 */
@@ -23,8 +22,13 @@ http://stackoverflow.com/questions/11375724/fade-in-fade-out-on-image-hover-usin
 
 /*background atempt 4*/
 header {
-    background: #544F6D;
+    background: #dabccb;
+
     /*viewport height*/
+}
+
+body{
+    color: #5c507b !important;
 }
 
 @media (min-width: 600px) {
