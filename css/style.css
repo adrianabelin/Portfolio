@@ -33,7 +33,7 @@ body{
 
 @media (min-width: 600px) {
     header {
-        background: url("../img/backgroundattemp4.png");
+        background: url("../img/constell.png");
         background-repeat: no-repeat;
         background-size:cover;
         height: 100vh;
