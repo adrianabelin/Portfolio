@@ -15,7 +15,6 @@ body{
     }
 }
 
-
 .new-shape{
   fill: transparent;
   position: absolute;
@@ -31,7 +30,6 @@ body{
   transition: opacity 2s ease-in-out;
 }
 
-
 .new-shape2{
   fill: transparent;
   position: absolute;
@@ -40,19 +38,16 @@ body{
   z-index: 50;
   transition: 3s ease-in-out;
 }
-
-
 .new-shape2:hover{
   fill: #ffffff;
   transition: opacity 2s ease-in-out;
 }
 
-
 .new-shape3{
   fill: transparent;
   position: absolute;
-  left: 78%;
-  top: 40%;
+  left: 83%;
+  top: 50%;
   z-index: 50;
   transition: 3s ease-in-out;
 }
@@ -61,12 +56,11 @@ body{
   transition: opacity 2s ease-in-out;
 }
 
-
 .new-shape4{
   fill: transparent;
   position: absolute;
-  left: 20%;
-  top: 40%;
+  left: 10%;
+  top: 50%;
   z-index: 50;
   transition: 3s ease-in-out;
 }
@@ -74,8 +68,6 @@ body{
   fill: #ffffff;
   transition: opacity 2s ease-in-out;
 }
-
-
 
 .new-shape5{
   fill: transparent;
@@ -90,7 +82,6 @@ body{
   transition: opacity 2s ease-in-out;
 }
 
-
 .new-shape6{
   fill: transparent;
   position: absolute;
@@ -103,7 +94,6 @@ body{
   fill: #ffffff;
   transition: opacity 2s ease-in-out;
 }
-
 
 .new-shape7{
   fill: transparent;
@@ -118,8 +108,6 @@ body{
   transition: opacity 2s ease-in-out;
 }
 
-
-
 .new-shape8{
   fill: transparent;
   position: absolute;
@@ -133,7 +121,6 @@ body{
   transition: opacity 2s ease-in-out;
 }
 
-
 .new-shape9{
   fill: transparent;
   position: absolute;
@@ -146,7 +133,6 @@ body{
   fill: #ffffff;
   transition: opacity 2s ease-in-out;
 }
-
 
 .new-shape10{
   fill: transparent;
@@ -201,7 +187,6 @@ body{
   transition: opacity 2s ease-in-out;
 }
 
-
 .new-shape14{
   fill: transparent;
   position: absolute;
@@ -218,12 +203,233 @@ body{
 .new-shape15{
   fill: transparent;
   position: absolute;
-  left: 62%;
-  top: 20%;
+  left: 85%;
+  top: 30%;
   z-index: 50;
   transition: 3s ease-in-out;
 }
 .new-shape15:hover{
+  fill: #ffffff;
+  transition: opacity 2s ease-in-out;
+}
+
+.new-shape16{
+  fill: transparent;
+  position: absolute;
+  left: 90%;
+  top: 60%;
+  z-index: 50;
+  transition: 3s ease-in-out;
+}
+.new-shape16:hover{
+  fill: #ffffff;
+  transition: opacity 2s ease-in-out;
+}
+
+.new-shape17{
+  fill: transparent;
+  position: absolute;
+  left: 10%;
+  top: 60%;
+  z-index: 50;
+  transition: 3s ease-in-out;
+}
+.new-shape17:hover{
+  fill: #ffffff;
+  transition: opacity 2s ease-in-out;
+}
+
+.new-shape18{
+  fill: transparent;
+  position: absolute;
+  left: 80%;
+  top: 50%;
+  z-index: 50;
+  transition: 3s ease-in-out;
+}
+.new-shape18:hover{
+  fill: #ffffff;
+  transition: opacity 2s ease-in-out;
+}
+
+.new-shape19{
+  fill: transparent;
+  position: absolute;
+  left: 15%;
+  top: 20%;
+  z-index: 50;
+  transition: 3s ease-in-out;
+}
+.new-shape19:hover{
+  fill: #ffffff;
+  transition: opacity 2s ease-in-out;
+}
+
+.new-shape20{
+  fill: transparent;
+  position: absolute;
+  left: 5%;
+  top: 35%;
+  z-index: 50;
+  transition: 3s ease-in-out;
+}
+.new-shape20:hover{
+  fill: #ffffff;
+  transition: opacity 2s ease-in-out;
+}
+
+.new-shape21{
+  fill: transparent;
+  position: absolute;
+  left: 35%;
+  top: 65%;
+  z-index: 50;
+  transition: 3s ease-in-out;
+}
+.new-shape21:hover{
+  fill: #ffffff;
+  transition: opacity 2s ease-in-out;
+}
+
+.new-shape22{
+  fill: transparent;
+  position: absolute;
+  left: 60%;
+  top: 55%;
+  z-index: 50;
+  transition: 3s ease-in-out;
+}
+.new-shape22:hover{
+  fill: #ffffff;
+  transition: opacity 2s ease-in-out;
+}
+
+.new-shape23{
+  fill: transparent;
+  position: absolute;
+  left: 20%;
+  top: 60%;
+  z-index: 50;
+  transition: 3s ease-in-out;
+}
+.new-shape23:hover{
+  fill: #ffffff;
+  transition: opacity 2s ease-in-out;
+}
+
+.new-shape24{
+  fill: transparent;
+  position: absolute;
+  left: 15%;
+  top: 40%;
+  z-index: 50;
+  transition: 3s ease-in-out;
+}
+.new-shape24:hover{
+  fill: #ffffff;
+  transition: opacity 2s ease-in-out;
+}
+
+.new-shape25{
+  fill: transparent;
+  position: absolute;
+  left: 40%;
+  top: 55%;
+  z-index: 50;
+  transition: 3s ease-in-out;
+}
+.new-shape25:hover{
+  fill: #ffffff;
+  transition: opacity 2s ease-in-out;
+}
+
+.new-shape26{
+  fill: transparent;
+  position: absolute;
+  left: 30%;
+  top: 60%;
+  z-index: 50;
+  transition: 3s ease-in-out;
+}
+.new-shape26:hover{
+  fill: #ffffff;
+  transition: opacity 2s ease-in-out;
+}
+
+.new-shape27{
+  fill: transparent;
+  position: absolute;
+  left: 80%;
+  top: 20%;
+  z-index: 50;
+  transition: 3s ease-in-out;
+}
+.new-shape27:hover{
+  fill: #ffffff;
+  transition: opacity 2s ease-in-out;
+}
+
+.new-shape28{
+  fill: transparent;
+  position: absolute;
+  left: 50%;
+  top: 60%;
+  z-index: 50;
+  transition: 3s ease-in-out;
+}
+.new-shape28:hover{
+  fill: #ffffff;
+  transition: opacity 2s ease-in-out;
+}
+
+.new-shape29{
+  fill: transparent;
+  position: absolute;
+  left: 62%;
+  top: 58%;
+  z-index: 50;
+  transition: 3s ease-in-out;
+}
+.new-shape29:hover{
+  fill: #ffffff;
+  transition: opacity 2s ease-in-out;
+}
+
+.new-shape30{
+  fill: transparent;
+  position: absolute;
+  left: 10%;
+  top: 20%;
+  z-index: 50;
+  transition: 3s ease-in-out;
+}
+.new-shape30:hover{
+  fill: #ffffff;
+  transition: opacity 2s ease-in-out;
+}
+
+.new-shape31{
+  fill: transparent;
+  position: absolute;
+  left: 40%;
+  top: 24%;
+  z-index: 50;
+  transition: 3s ease-in-out;
+}
+.new-shape31:hover{
+  fill: #ffffff;
+  transition: opacity 2s ease-in-out;
+}
+
+.new-shape32{
+  fill: transparent;
+  position: absolute;
+  left: 92%;
+  top: 35%;
+  z-index: 50;
+  transition: 3s ease-in-out;
+}
+.new-shape32:hover{
   fill: #ffffff;
   transition: opacity 2s ease-in-out;
 }
