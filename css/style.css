@@ -1,50 +1,3 @@
-/*
-1. Get rid of white lines somewhere
-
-4. Place stars
-4.5. Fade out stars https://css-tricks.com/animating-svg-css/
-5. lower moon
-
-http://stackoverflow.com/questions/11375724/fade-in-fade-out-on-image-hover-using-css3
-
-*/
-/*
-@media screen
-  and (device-width: 320px)
-  and (device-height: 568px)
-  and (-webkit-device-pixel-ratio: 2)
-{
-    #background .logo .nav  {
-       display:none;
-    }
-}
-*/
-
-/*background atempt 4*/
-header {
-    background: #a89bc3;
-
-    /*viewport height*/
-}
-
-body{
-    color: #5c507b !important;
-}
-
-@media (min-width: 600px) {
-    header {
-        background: url("../img/starryskywithout.png");
-        background-repeat: no-repeat;
-        background-size:cover;
-        height: 100vh;
-    }
-}
-
-/*.intro-text {
-  zoom: 50%;
-}
-*/
-
 .new-shape{
   fill: transparent;
   position: absolute;
@@ -257,34 +210,7 @@ body{
   transition: opacity 2s ease-in-out;
 }
 
-
-
-
-
-
-
-/*.navbar{
-  opacity: 0.5;
-  background:#544F6D;
-} */
-
 .navbar-brand.active{
   opacity: 0.5;
   background:#544F6D;
 }
-
-
-/* I tried this stuff to add a shadow but it didn't work.
-
- .portfolio{
-  color: #ffffff;
-  text-shadow:#000000;
-}
- .portfolio-item{
-  color: #ffffff;
-  text-shadow:#000000;
-}
- .portfolio-link{
-  color: #ffffff;
-  text-shadow:#000000;
- }
