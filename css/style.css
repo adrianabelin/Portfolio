@@ -15,6 +15,12 @@ body{
     }
 }
 
+@media (max-width: 600px) {
+  .star {
+    display: none;
+  }
+}
+
 #contact p, #contact ul {
   font-size: 20px;
 }
